@@ -1,0 +1,6 @@
+Reston_genome,Sudan_genome,TaiForest_genome,Zaire_genome,Bundibugyo_genome
+0,6497,6762,6397,6792
+6497,0,6779,6448,6794
+6762,6779,0,6173,5559
+6397,6448,6173,0,6206
+6792,6794,5559,6206,0
